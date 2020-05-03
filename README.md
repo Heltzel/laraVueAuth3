@@ -1,2 +1,2 @@
 # laraVueAuth3
- Laravel Vue  project
+ Laravel Vue JWT project
